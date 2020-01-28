@@ -1,0 +1,11 @@
+9
+Dallas Houston Austin Amarillo Lubbock Greenville Raleigh Tampa Oakland
+Dallas Austin 67
+Houston Austin 67
+Austin Lubbock 87 
+Amarillo Lubbock 89
+Lubbock Raleigh 89
+Greenville Raleigh 100
+Raleigh Oakland 45
+Tampa Oakland 67
+
